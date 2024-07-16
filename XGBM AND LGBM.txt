@@ -1,0 +1,17 @@
+##FILES INFORMATION 
+
+
+#python files
+
+1.training data performing xgbm
+2.training data performing lgbm
+
+#python files 2
+
+1.testing data performing xgbm
+2.tsting data performing lgbm
+
+#summary report
+#document files
+#1.Compare the performance metrics (e.g., accuracy, precision, recall) of LightGBM and XGBoost models.
+2.Visualize and interpret the results to identify the strengths and weaknesses of each algorithm.
